@@ -1,0 +1,10 @@
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\bin\Debug\BooksProvider.dll
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\bin\Debug\BooksProvider.pdb
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\obj\Debug\BooksProvider.csprojAssemblyReference.cache
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\obj\Debug\BooksProvider.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\obj\Debug\BooksProvider.csproj.CopyComplete
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\obj\Debug\BooksProvider.dll
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\obj\Debug\BooksProvider.pdb

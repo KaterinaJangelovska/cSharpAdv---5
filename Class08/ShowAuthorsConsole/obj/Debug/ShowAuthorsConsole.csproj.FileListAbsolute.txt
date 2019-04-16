@@ -1,0 +1,14 @@
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\bin\Debug\authors.json
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\bin\Debug\ShowAuthorsConsole.exe.config
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\bin\Debug\ShowAuthorsConsole.exe
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\bin\Debug\ShowAuthorsConsole.pdb
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\bin\Debug\BooksProvider.dll
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\bin\Debug\BooksProvider.pdb
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\obj\Debug\ShowAuthorsConsole.csprojAssemblyReference.cache
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\obj\Debug\ShowAuthorsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\obj\Debug\ShowAuthorsConsole.csproj.CopyComplete
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\obj\Debug\ShowAuthorsConsole.exe
+C:\Users\Kate\Downloads\sedc7-06-csharpadvanced-master\sedc7-06-csharpadvanced-master\g5\Class08\ShowAuthorsConsole\obj\Debug\ShowAuthorsConsole.pdb
